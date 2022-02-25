@@ -1,6 +1,4 @@
-- 👋 Olá! Eu me chamo Leonardo Leitão
-- 🎓 Bacharel Ciência da computação UECE (4 semestre)
-- 🌱 Estudando: JavaScript
+## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
  <!--  -->
 <div align="center">
   <a href="https://github.com/LeonardoLeitao27">
