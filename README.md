@@ -1,6 +1,6 @@
 - 👋 Olá! Eu me chamo Leonardo Leitão
-- 🎓 Bacharel Ciência da computação UECE (4 semestre)
-- 🌱 Estudando: JavaScript
+- 🎓 Bacharel Ciência da computação UECE (4° semestre)
+- 🌱 Estudando alternativas para desenvolvimento de soluções web
  <!--  -->
 <div align="center">
   <a href="https://github.com/LeonardoLeitao27">
