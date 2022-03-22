@@ -1,4 +1,4 @@
-- 👋 Olá! Eu me chamo Leonardo Leitão
+- 👋 Olá! Eu me chamo Leonardo Leitão 
 - 🎓 Bacharel Ciência da computação UECE (4° semestre)
 - 🌱 Estudando alternativas para o desenvolvimento de soluções web
  <!--  -->
