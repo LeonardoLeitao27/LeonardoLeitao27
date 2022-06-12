@@ -11,7 +11,7 @@
  <div align="center">
   <a href="https://github.com/LeonardoLeitao27">
     
-   <a href="89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ" target="_blank"> <img height="160em" src="https://cdn.discordapp.com/attachments/951868091015524375/985365070458552390/sas.png"/> </a>
+   <a href="leonardoleitao27.github.io/portfolio/" target="_blank"> <img height="160em" src="https://cdn.discordapp.com/attachments/951868091015524375/985365070458552390/sas.png"/> </a>
 </div>
 
  <!-- Div com os icones das linguagens -->
