@@ -14,7 +14,7 @@
 
 
 
-  <a href="https://leonardoleitao27.github.io/portfolio/" target="_blank" class="link">Conferir portifólio</a>
+  <a href="https://leonardoleitao27.github.io/portfolio/" target="_blank" class="link"> Conferir portifólio </a>
 
    
     
