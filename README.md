@@ -11,30 +11,7 @@
  <div align="center">
   <a href="https://github.com/LeonardoLeitao27">
    
-   <style>
 
-        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
-
-        .painel{
-            background-color: #151515;
-            display: flex;
-            align-items: center;
-            padding: 1%;
-            max-width: 40%;
-            border-radius: 15px;
-            border-style: solid;
-            border-width: 4px;
-            border-color: #ddddde;
-        }
-        .link{
-            display: flex;
-            color: #ddddde;
-            font-size: 300%;
-            text-decoration: none;
-            margin: 0 auto;
-            font-family: 'Roboto', sans-serif;
-        }
-    </style>
 
     <section class="painel">
         <a href="https://leonardoleitao27.github.io/portfolio/" target="_blank" class="link">Conferir portifólio</a>
