@@ -13,9 +13,9 @@
    
 
 
-    <div class="painel">
-        <a href="https://leonardoleitao27.github.io/portfolio/" target="_blank" class="link">Conferir portifólio</a>
-    </div>
+
+  <a href="https://leonardoleitao27.github.io/portfolio/" target="_blank" class="link">Conferir portifólio</a>
+
    
     
    <a href="https://leonardoleitao27.github.io/portfolio/" target="_blank"> <img height="120em" src="https://cdn.discordapp.com/attachments/951868091015524375/985369490197999676/3231231.png" target="_blank"> </a>
