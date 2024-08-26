@@ -1,5 +1,5 @@
 - 👋 Olá! Eu me chamo Leonardo Leitão 
-- 🎓 Bacharel Ciência da computação UECE (4° semestre)
+- 🎓 Graduando em Ciência da Computação na Universidade Estadual do Ceará.
 - 🌱 Estudando alternativas para o desenvolvimento de soluções web
  <!--  -->
 
